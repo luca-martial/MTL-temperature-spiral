@@ -1,4 +1,4 @@
-# Montreal-Temperature-Spiral
+# Montreal Temperature Spiral (1872-2019)
 
 The goal of this project was to create an animated spiral of Montreal's variation in temperature from 1872 to 2019.
 
