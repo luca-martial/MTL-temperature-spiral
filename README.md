@@ -1,6 +1,6 @@
 # Montreal Temperature Spiral (1872-2019)
 
-The goal of this project was to create an animated spiral of Montreal's variation in temperature from 1872 to 2019.
+The goal of this project was to create an animated spiral of Montreal's variation in temperature from 1872 to 2019. View it [here](https://www.youtube.com/watch?v=MbvvOTVyU-I).
 
 Background: Ed Hawkins, a climate scientist, unveiled an animated visualization in 2017 which captivated the world. This visualization showed the deviations of the global average temperature from 1850 to 2017. It was reshared millions of times over Twitter and Facebook and a version of it was even shown at the opening ceremony for the Rio Olympics.
 
